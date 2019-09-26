@@ -1,0 +1,6 @@
+*.rpm
+*.log
+*.tar.gz
+upstream/*
+sources/*
+rpmbuild/*.*
