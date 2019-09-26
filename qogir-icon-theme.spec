@@ -31,12 +31,12 @@ done
 
 %files
 %defattr(-,root,root)
-{_datadir}/icons/Qogir
-{_datadir}/icons/Qogir-dark
-{_datadir}/icons/Qogir-manjaro
-{_datadir}/icons/Qogir-manjaro-dark
-{_datadir}/icons/Qogir-ubuntu
-{_datadir}/icons/Qogir-ubuntu-dark
+%{_datadir}/icons/Qogir
+%{_datadir}/icons/Qogir-dark
+%{_datadir}/icons/Qogir-manjaro
+%{_datadir}/icons/Qogir-manjaro-dark
+%{_datadir}/icons/Qogir-ubuntu
+%{_datadir}/icons/Qogir-ubuntu-dark
 
 
 %changelog
