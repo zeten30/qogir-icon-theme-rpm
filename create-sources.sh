@@ -15,12 +15,12 @@ if [ -d Qogir-icon-theme ]; then
   rm -rf Qogir-icon-theme
 fi
 
-# git clone https://github.com/vinceliuice/Qogir-icon-theme.git
-git clone https://github.com/zeten30/Qogir-icon-theme.git
+git clone https://github.com/vinceliuice/Qogir-icon-theme.git
+# git clone https://github.com/zeten30/Qogir-icon-theme.git
 
 # Install to sources
 cd Qogir-icon-theme || exit 1
-git checkout fix_broken_links
+# git checkout fix_broken_links
 ./install.sh --dest "${WDIR}/sources/qogir-icon-theme"
 
 cd ../../sources || exit 1
