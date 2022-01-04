@@ -1,5 +1,5 @@
 Name:           qogir-icon-theme
-Version:        2021.11
+Version:        2022.01
 Release:        1%{?dist}
 Summary:        A colorful design icon theme for linux desktops
 
