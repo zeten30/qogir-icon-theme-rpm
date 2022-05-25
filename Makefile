@@ -1,5 +1,5 @@
 # RPM Makefile
-RELEASE=35
+RELEASE=36
 
 build:
 	./create-sources.sh
